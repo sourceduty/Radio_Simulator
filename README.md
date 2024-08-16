@@ -22,6 +22,10 @@ This custom GPT is historic because it represents a creative fusion of advanced 
 
 > Alex: "*I tried to tune into an FM radio station's API.*"
 
+> "*I created this custom GPT and then I removed it and almost deleted it.*"
+
+> "*I kept this custom GPT because of the history and it's continued usage in outer space.*"
+
 #
 ### Related Links
 

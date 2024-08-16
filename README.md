@@ -20,7 +20,7 @@ This custom GPT is historic because it represents a creative fusion of advanced 
 
 #
 
-> Alex: "*I wanted and tried to tune into an FM radio station's API.*"
+> Alex: "*I tried to tune into an FM radio station's API.*"
 
 #
 ### Related Links

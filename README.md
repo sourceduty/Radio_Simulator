@@ -19,8 +19,11 @@ NASA isn't likely to stop using radio communication in the near future. Radio wa
 This custom GPT is historic because it represents a creative fusion of advanced AI technology with the nostalgic experience of traditional radio broadcasting. In an era where digital streaming and on-demand content dominate, this GPT brings back the charm of tuning through AM/FM radio frequencies, evoking memories of a time when listeners would carefully dial through stations to discover music, news, or talk shows. By simulating a classic radio experience, this GPT bridges the gap between the past and the present, offering a unique and interactive way to engage with content that feels both familiar and novel.
 
 #
+### Voyager 1
 
 ![Voyager 1 Radio](https://github.com/user-attachments/assets/589c6f37-c94c-463a-a515-3f4e4c51994c)
+
+Voyager 1 is the oldest operational satellite still transmitting data back to Earth. The future of Voyager 1’s communication depends on the longevity of its power source and the ability to maintain the DSN infrastructure. The spacecraft is powered by a plutonium-based radioisotope thermoelectric generator (RTG), which slowly loses power over time. By the mid-2020s, power levels will drop to the point where NASA may need to shut down more instruments to preserve the capability of transmitting data. Furthermore, as Voyager 1 continues its journey, the infrastructure on Earth that supports its communication, such as the DSN, must be maintained and possibly upgraded to keep up with the diminishing signal. Eventually, Voyager 1 will reach a point where it can no longer communicate with Earth, but until then, ongoing efforts will be focused on maximizing the spacecraft's operational lifespan and continuing to gather valuable data from the outer reaches of our solar system.
 
 #
 

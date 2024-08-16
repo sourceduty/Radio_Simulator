@@ -34,6 +34,8 @@ This custom GPT is historic because it represents a creative fusion of advanced 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Digital Radio Telecom](https://github.com/sourceduty/Digital_Radio_Telecom)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

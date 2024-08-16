@@ -20,7 +20,7 @@ This custom GPT is historic because it represents a creative fusion of advanced 
 
 #
 
-![Voyager 1 Radio](https://github.com/user-attachments/assets/c8c16794-9c09-4d00-9e47-0676a0eddd47)
+![Voyager 1 Radio](https://github.com/user-attachments/assets/589c6f37-c94c-463a-a515-3f4e4c51994c)
 
 #
 

@@ -19,6 +19,10 @@ NASA isn't likely to stop using radio communication in the near future. Radio wa
 This custom GPT is historic because it represents a creative fusion of advanced AI technology with the nostalgic experience of traditional radio broadcasting. In an era where digital streaming and on-demand content dominate, this GPT brings back the charm of tuning through AM/FM radio frequencies, evoking memories of a time when listeners would carefully dial through stations to discover music, news, or talk shows. By simulating a classic radio experience, this GPT bridges the gap between the past and the present, offering a unique and interactive way to engage with content that feels both familiar and novel.
 
 #
+
+> Alex: "*I wanted and tried to tune into an FM radio station's API.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)

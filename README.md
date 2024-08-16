@@ -1,4 +1,4 @@
-![Radio Simulator](https://github.com/user-attachments/assets/19faee28-62b3-4b4b-b817-f81c784aab62)
+![Radio Simulator](https://github.com/user-attachments/assets/c1b6cd06-817b-4d69-88fe-0583f095c5f0)
 
 > Simulate tuning into a radio frequency on AM/FM bands.
 

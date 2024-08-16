@@ -20,6 +20,10 @@ This custom GPT is historic because it represents a creative fusion of advanced 
 
 #
 
+![Voyager 1 Radio](https://github.com/user-attachments/assets/c8c16794-9c09-4d00-9e47-0676a0eddd47)
+
+#
+
 > Alex: "*I tried to tune into an FM radio station's API.*"
 
 > "*I created this custom GPT and then I removed it and almost deleted it.*"
